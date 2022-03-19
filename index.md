@@ -1,6 +1,7 @@
 # **Meme information**
 *So...You'd like to know more about my meme..?!*
-.
+
+![](my_meme.png)
 
 ## In this section you will be able to find...
 * The R code used to produce my meme
